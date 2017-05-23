@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"DocBlockr",
+		"FileDiffs",
+		"HTMLBeautify",
+		"Local History",
+		"MarkdownEditing",
+		"Package Control",
+		"PHP-Twig",
+		"PlainTasks",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Theme - Afterglow",
+		"Xdebug Client"
+	]
+}

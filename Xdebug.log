@@ -1,0 +1,53 @@
+[05/23/2017 09:00:00AM] INFO - ==== Loading 'Xdebug Client.sublime-package' package ====
+[05/23/2017 09:00:01AM] INFO - Failed to open /Users/HFY/www/sublime/Packages/User/Xdebug.expressions.
+[05/23/2017 09:00:01AM] INFO - Failed to parse /Users/HFY/www/sublime/Packages/User/Xdebug.expressions.
+[05/23/2017 02:28:01PM] INFO - Break: /Users/HFY/www/test/math.php:37
+[05/23/2017 02:28:18PM] INFO - Break: /Users/HFY/www/test/math.php:38
+[05/23/2017 02:28:19PM] INFO - Break: /Users/HFY/www/test/math.php:40
+[05/23/2017 02:28:20PM] INFO - Break: /Users/HFY/www/test/math.php:42
+[05/23/2017 02:28:21PM] INFO - Break: /Users/HFY/www/test/math.php:44
+[05/23/2017 02:28:22PM] INFO - Break: /Users/HFY/www/test/math.php:51
+[05/23/2017 02:28:22PM] INFO - Break: /Users/HFY/www/test/math.php:52
+[05/23/2017 02:28:23PM] INFO - Break: /Users/HFY/www/test/math.php:54
+[05/23/2017 02:28:23PM] INFO - Break: /Users/HFY/www/test/math.php:44
+[05/23/2017 02:28:23PM] INFO - Break: /Users/HFY/www/test/math.php:51
+[05/23/2017 02:28:24PM] INFO - Break: /Users/HFY/www/test/math.php:52
+[05/23/2017 02:28:24PM] INFO - Break: /Users/HFY/www/test/math.php:54
+[05/23/2017 02:28:24PM] INFO - Break: /Users/HFY/www/test/math.php:44
+[05/23/2017 02:28:24PM] INFO - Break: /Users/HFY/www/test/math.php:51
+[05/23/2017 02:29:56PM] INFO - ==== Loading 'Xdebug Client.sublime-package' package ====
+[05/23/2017 02:29:56PM] INFO - Failed to open /Users/HFY/www/sublime/Packages/User/Xdebug.expressions.
+[05/23/2017 02:29:56PM] INFO - Failed to parse /Users/HFY/www/sublime/Packages/User/Xdebug.expressions.
+[05/23/2017 02:30:43PM] INFO - Break: /Users/HFY/www/test/math.php:37
+[05/23/2017 02:34:02PM] INFO - Break: /Users/HFY/www/test/math.php:38
+[05/23/2017 02:34:03PM] INFO - Break: /Users/HFY/www/test/math.php:40
+[05/23/2017 02:34:04PM] INFO - Break: /Users/HFY/www/test/math.php:42
+[05/23/2017 02:38:59PM] INFO - Break: /Users/HFY/www/test/test.php:37
+[05/23/2017 02:39:04PM] INFO - Break: /Users/HFY/www/test/test.php:38
+[05/23/2017 02:40:37PM] INFO - Break: /Users/HFY/www/test/test.php:40
+[05/23/2017 02:41:03PM] INFO - Break: /Users/HFY/www/test/test.php:37
+[05/23/2017 02:41:08PM] INFO - Break: /Users/HFY/www/test/test.php:38
+[05/23/2017 02:41:09PM] INFO - Break: /Users/HFY/www/test/test.php:40
+[05/23/2017 02:41:09PM] INFO - Break: /Users/HFY/www/test/test.php:42
+[05/23/2017 02:41:10PM] INFO - Break: /Users/HFY/www/test/test.php:44
+[05/23/2017 02:41:10PM] INFO - Break: /Users/HFY/www/test/test.php:51
+[05/23/2017 02:41:10PM] INFO - Break: /Users/HFY/www/test/test.php:52
+[05/23/2017 02:41:10PM] INFO - Break: /Users/HFY/www/test/test.php:54
+[05/23/2017 02:41:10PM] INFO - Break: /Users/HFY/www/test/test.php:44
+[05/23/2017 02:41:10PM] INFO - Break: /Users/HFY/www/test/test.php:51
+[05/23/2017 02:41:11PM] INFO - Break: /Users/HFY/www/test/test.php:52
+[05/23/2017 02:41:11PM] INFO - Break: /Users/HFY/www/test/test.php:54
+[05/23/2017 02:41:11PM] INFO - Break: /Users/HFY/www/test/test.php:44
+[05/23/2017 02:41:11PM] INFO - Break: /Users/HFY/www/test/test.php:51
+[05/23/2017 02:41:11PM] INFO - Break: /Users/HFY/www/test/test.php:44
+[05/23/2017 02:41:12PM] INFO - Break: /Users/HFY/www/test/test.php:51
+[05/23/2017 02:41:12PM] INFO - Break: /Users/HFY/www/test/test.php:63
+[05/23/2017 02:41:12PM] INFO - Break: /Users/HFY/www/test/test.php:42
+[05/23/2017 02:41:12PM] INFO - Break: /Users/HFY/www/test/test.php:44
+[05/23/2017 02:41:12PM] INFO - Break: /Users/HFY/www/test/test.php:51
+[05/23/2017 02:41:12PM] INFO - Break: /Users/HFY/www/test/test.php:52
+[05/23/2017 02:41:12PM] INFO - Break: /Users/HFY/www/test/test.php:54
+[05/23/2017 02:41:13PM] INFO - Break: /Users/HFY/www/test/test.php:44
+[05/23/2017 02:41:13PM] INFO - Break: /Users/HFY/www/test/test.php:51
+[05/23/2017 02:41:14PM] INFO - Break: /Users/HFY/www/test/test.php:52
+[05/23/2017 02:41:15PM] INFO - Break: /Users/HFY/www/test/test.php:54

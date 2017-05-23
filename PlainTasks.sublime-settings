@@ -1,0 +1,7 @@
+{
+	"color_scheme": "Packages/PlainTasks/tasks-bright-spacegray.hidden-tmTheme",
+	"date_format": "(%y-%m-%d %H:%M)",
+	"indent_after_task": true,
+	"tab_size": 4,
+	"show_remain_due":true
+}

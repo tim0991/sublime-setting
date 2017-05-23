@@ -1,0 +1,9 @@
+[
+    {"keys":["command+ctrl+down"],"command":"duplicate_line"},
+    {"keys":["command+g"], "command": "prompt_goto_line" },
+    {"keys":["command+3"], "command": "find_all_under" },
+    { "keys": ["f3"], "command": "goto_definition" },
+    { "keys": ["command+shift+f"], "command": "alignment" },
+    { "keys": ["ctrl+shift+f"], "command": "show_panel", "args": {"panel": "find_in_files"} },
+    { "keys": ["command+shift+d"], "command": "htmlprettify" },
+]
